@@ -35,3 +35,24 @@ Zero Flag       = 0
 ## Note
 This is a simplified educational processor demonstration, not a complete CPU with
 instruction fetch/decode, program memory, or a full instruction set.
+## Simulation Link
+
+[Run the 4-bit Processor Simulation](https://edaplayground.com/x/g7HR)
+## Simulation Results
+
+- Addition Result: 8
+- Zero Flag: 0
+
+## Tools Used
+
+- Verilog HDL
+- EDA Playground
+- Icarus Verilog
+- GitHub
+
+## Project Files
+
+- design.sv - Processor design
+- testbench.sv - Simulation testbench
+- README.md - Project documentation
+- Screenshot - simulation output
